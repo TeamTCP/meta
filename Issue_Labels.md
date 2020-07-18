@@ -3,7 +3,6 @@
 Modeled after [Rust's issue labels](https://github.com/rust-lang/rust/labels)
 
 - `A-`: Relating to this area of the application (`#0D47A1`)
-  - `A-security`: Relating to security
   - `A-docs`: Relating to documentation
   - `A-deps`: Relating to dependencies
   - `A-meta`: Relating to management of a repository
